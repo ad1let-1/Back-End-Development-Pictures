@@ -1,6 +1,9 @@
 # Back-End-Development-Pictures
 
-Flask REST service for Djirection concert photographs. This project extends the [IBM Skills Network course template](https://github.com/ibm-developer-skills-network/luggb-Back-End-Development-Pictures), licensed under Apache 2.0. The missing REST handlers have been implemented and the included test suite passes.
+This is the public README for my **Back-End-Development-Pictures** repository:
+https://github.com/ad1let-1/Back-End-Development-Pictures/blob/main/README.md
+
+Flask REST service for Djirection concert photographs. Based on the IBM Skills Network course template, licensed under Apache 2.0. The REST handlers are implemented and the included test suite passes.
 
 ## Run locally
 
