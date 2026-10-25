@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "pic_url": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+        "pic_url": "/static/images/concert.jpg",
         "event_country": "United States",
         "event_state": "District of Columbia",
         "event_city": "Washington",
